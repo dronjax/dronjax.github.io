@@ -19,3 +19,5 @@ github_username:  dronjax
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-architect
