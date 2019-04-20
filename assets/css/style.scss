@@ -2,3 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header {
+    padding: 1rem 3rem;
+}
+.project-tagline {
+    margin-bottom: 1.25rem;
+}
+.btn {
+    padding: 0.5rem 0.75rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.25;
+}
+.main-content .post-item-title {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+.main-content .post-item-content {
+    margin-top: 1rem;
+    padding-left: 2rem;
+    line-height: 0.75;
+    font-size: 0.9rem;
+}
