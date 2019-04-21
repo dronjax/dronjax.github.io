@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hello Blog !!!"
-date:   2019-04-20
-categories: jekyll
+date: 2019-04-20
+tags: [jekyll, blog]
 excerpt_separator: <!--more-->
 ---
 Hi, dronjax here.
