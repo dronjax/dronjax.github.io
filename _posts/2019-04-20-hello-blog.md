@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Blog !!!"
-date:   2019-04-20 20:00:34 +0800
+date:   2019-04-20
 categories: jekyll
 excerpt_separator: <!--more-->
 ---
